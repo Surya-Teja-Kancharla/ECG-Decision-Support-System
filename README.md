@@ -22,7 +22,7 @@ The system detects **multiple co-occurring cardiac arrhythmias** from **12-lead 
 
 ## 🔗 Live Demo (Streamlit Deployment)
 
-👉 **Deployed Application:** [**https://ecg-arrhythmia-multi-label-classification.streamlit.app/**](https://ecg-arrhythmia-multi-label-classification.streamlit.app/)
+👉 **Deployed Application:** [**https://ecg-decision-support-system.streamlit.app/**](https://ecg-decision-support-system.streamlit.app/)
 
 > The live app allows uploading **preprocessed `.pk` ECG files** and simulates real-time multi-label arrhythmia detection with clinical decision support explanations.
 
